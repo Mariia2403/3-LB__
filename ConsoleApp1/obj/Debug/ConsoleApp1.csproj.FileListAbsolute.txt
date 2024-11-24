@@ -1,0 +1,14 @@
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\Новая папка (3)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Visual Studio (2)\2 курс\ООП\3 ЛБ\1 task\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
